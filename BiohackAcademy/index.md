@@ -7,7 +7,7 @@ title: BioHack Academy
   My works about BioHack Academy: BioFactory by <a href="http://waag.org/nl/project/biohack-academy-biofactory">Waag Society</a>.
 </p>
 
-* [Incubator](/biohackacademy/incubator/)
+* [Incubator](/BiohackAcademy/incubator/)
 * Microscope
 * 3D & 2D Design
 * Sterile hood
